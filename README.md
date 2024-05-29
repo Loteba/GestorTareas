@@ -4,6 +4,6 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 - Python 3.x
 - Tkinter (incluido en la instalación estándar de Python)
 ## Instalación
-1. Clona este repositorio:
+###Clona este repositorio:
 ```bash
-git clone <URL_del_repositorio>```
+git clone <[URL_del_repositorio](https://github.com/Loteba)>```
