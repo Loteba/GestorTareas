@@ -6,4 +6,4 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 ## Instalación
 ###Clona este repositorio:
 ```bash
-git clone https://github.com/Loteba ``
+git clone (https://github.com/Loteba)
