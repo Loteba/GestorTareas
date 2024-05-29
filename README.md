@@ -4,6 +4,19 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 - Python 3.x
 - Tkinter (incluido en la instalación estándar de Python)
 ## Instalación
-###Clona este repositorio:
-```bash
-git clone (https://github.com/Loteba/GestorTareas.git)
+### Clona este repositorio:
+```
+bash
+git clone https://github.com/Loteba/GestorTareas.git
+```
+### Estructura del Proyecto
+```
+gestor_tareas/
+├── tests/
+│ └── test_gestor_tareas.py
+├── src/
+│ ├── logica
+│ │ └── test_gestor_tareas.py
+│ └── vista
+│ └── gui_
+```
